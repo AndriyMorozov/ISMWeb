@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+}
+p {
+    color: blue;
+}
+.bordered {
+    border: 1px solid orange;
+    color: black;
+}
+.selected {
+    color: orange;
+}
+
+.round {
+    border-radius: 20%;
+}
+#main {
+    border: 1px solid green;
+}
